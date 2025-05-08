@@ -1,0 +1,10 @@
+C:\プログラミング\calculator20250505\calculator20250505\bin\Debug\calculator20250505.exe.config
+C:\プログラミング\calculator20250505\calculator20250505\bin\Debug\calculator20250505.exe
+C:\プログラミング\calculator20250505\calculator20250505\bin\Debug\calculator20250505.pdb
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.csproj.AssemblyReference.cache
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.Form1.resources
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.Properties.Resources.resources
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.csproj.GenerateResource.cache
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.csproj.CoreCompileInputs.cache
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.exe
+C:\プログラミング\calculator20250505\calculator20250505\obj\Debug\calculator20250505.pdb
